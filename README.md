@@ -4,7 +4,6 @@ spiderwai77 is a simple crawler for [https://www.wai77.com/](https://www.wai77.c
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Install](#install)
 - [Usage](#usage)
 
